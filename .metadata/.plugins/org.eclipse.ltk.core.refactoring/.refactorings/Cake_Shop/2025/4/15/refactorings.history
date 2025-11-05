@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;Cake_Shop/src/main/webapp/updateprofile.jsp&apos; to &apos;updateAddress.jsp&apos;" description="Rename resource &apos;updateprofile.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/updateprofile.jsp" name="updateAddress.jsp" stamp="1743928014090" updateReferences="true"/>
-</session>
